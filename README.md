@@ -80,7 +80,7 @@ rainy,75.0,80.0,false,yes
 ### OUTPUT:
 <img width="945" height="462" alt="image" src="https://github.com/user-attachments/assets/479cb99e-ecc8-453f-8d01-1ae5c016e0bf" />
 
-### 2) Remove -> Pre-Processing Technique:
+#### 2) Remove -> Pre-Processing Technique:
 1) Start -> Programs -> Weka-3-4 -> Weka-3-4
 2) Click on explorer.
 3) Click on open file.
@@ -96,7 +96,7 @@ rainy,75.0,80.0,false,yes
 ### OUTPUT:
 <img width="943" height="530" alt="image" src="https://github.com/user-attachments/assets/8afb909b-83d7-4536-85b9-03bac8c7bccf" />
 
-### Normalize -> Pre-Processing Technique:
+#### 3) Normalize -> Pre-Processing Technique:
 1) Start -> Programs -> Weka-3-4 -> Weka-3-4
 2) Click on explorer.
 3) Click on open file.
